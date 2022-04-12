@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.fontSize": 17,
+  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": 350,
+  "editor.tabSize": 1,
+  "window.zoomLevel": 0.9,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.wordWrap": "on",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.minimap.enabled": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "git.suggestSmartCommit": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false,
+    "javascript": false
+  },
+  "bracketPairColorizer.depreciation-notice": false
+}
